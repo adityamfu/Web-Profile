@@ -9,4 +9,4 @@ Task:
 - Beautify with Javascript
 And any update later
 ====================================
-😊Thaks !
+Thanks !
